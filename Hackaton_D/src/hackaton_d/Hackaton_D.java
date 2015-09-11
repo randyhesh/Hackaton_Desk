@@ -15,11 +15,7 @@ public class Hackaton_D {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
-        System.out.println("Hi");
-        n obj = new n();
-        
-        obj.hesh();
+        // TODO code application logic here       
     }
     
 }
